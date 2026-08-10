@@ -1,7 +1,7 @@
 ***
 
 > [!IMPORTANT]  
-> This project has moved to <https://codeberg.org/KudoAI/chatgpt.js>
+> This project has moved to <https://gitlab.com/KudoAI/chatgpt-js>
 
 ***
 
