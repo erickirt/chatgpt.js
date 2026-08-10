@@ -1,9 +1,13 @@
-<div id="repo-cover" align="center">
-
-<a id="top"></a>
+***
 
 > [!IMPORTANT]  
 > This project has moved to <https://codeberg.org/KudoAI/chatgpt.js>
+
+***
+
+<div id="repo-cover" align="center">
+
+<a id="top"></a>
 
 <div align="center">
     <h6>
