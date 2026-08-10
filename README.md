@@ -2,6 +2,9 @@
 
 <a id="top"></a>
 
+> [!IMPORTANT]  
+> This project has moved to <https://codeberg.org/KudoAI/chatgpt.js>
+
 <div align="center">
     <h6>
         <a href="https://github.com/KudoAI/chatgpt.js/tree/main/docs">
